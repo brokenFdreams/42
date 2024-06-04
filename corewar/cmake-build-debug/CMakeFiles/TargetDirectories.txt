@@ -1,0 +1,3 @@
+/cygdrive/d/projects/corewar/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/d/projects/corewar/cmake-build-debug/CMakeFiles/corewar_42.dir
+/cygdrive/d/projects/corewar/cmake-build-debug/CMakeFiles/edit_cache.dir

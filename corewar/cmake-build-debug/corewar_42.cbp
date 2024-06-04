@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="corewar_42"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/d/projects/corewar/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/projects/corewar/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/projects/corewar/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/projects/corewar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/projects/corewar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/d/projects/corewar/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/projects/corewar/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/projects/corewar/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/projects/corewar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/projects/corewar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="corewar_42">
+				<Option output="/cygdrive/d/projects/corewar/cmake-build-debug/corewar_42.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/d/projects/corewar/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/cygdrive/d/projects/corewar/includes"/>
+					<Add directory="/cygdrive/d/projects/corewar/src/asm/libft"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/projects/corewar/cmake-build-debug/Makefile&quot;  VERBOSE=1 corewar_42"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/projects/corewar/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/projects/corewar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/projects/corewar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="corewar_42/fast">
+				<Option output="/cygdrive/d/projects/corewar/cmake-build-debug/corewar_42.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/d/projects/corewar/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/cygdrive/d/projects/corewar/includes"/>
+					<Add directory="/cygdrive/d/projects/corewar/src/asm/libft"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/projects/corewar/cmake-build-debug/Makefile&quot;  VERBOSE=1 corewar_42/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/projects/corewar/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/projects/corewar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/projects/corewar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/d/projects/corewar/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/projects/corewar/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/projects/corewar/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/projects/corewar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/projects/corewar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/d/projects/corewar/includes/asm.h">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/includes/commands.h">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/includes/op.h">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/asm.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/assembler/assembler.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/assembler/chk_arguments.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/assembler/chk_commands.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/assembler/chk_lables.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/assembler/cmnd_size.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/assembler/is_command.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/assembler/is_label.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/assembler/read_arguments.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/assembler/read_file.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/assembler/rewrite_code.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/assembler/rewrite_content.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/assembler/skip_space.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/assembler/validation.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/ft_error.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_atoi.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_atoi_base.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_bzero.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_isalnum.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_isalpha.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_isascii.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_isdigit.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_isprint.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_itoa.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_itoa_base.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_lstadd.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_lstdel.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_lstdelone.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_lstiter.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_lstmap.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_lstnew.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_max.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_memalloc.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_memccpy.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_memchr.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_memcmp.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_memcpy.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_memdel.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_memmove.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_memset.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_min.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_putchar.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_putchar_fd.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_putendl.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_putendl_fd.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_putnbr.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_putnbr_fd.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_putstr.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_putstr_fd.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_sqrt.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_strarraydel.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_strcat.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_strchr.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_strclr.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_strcmp.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_strcpy.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_strdel.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_strdup.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_strequ.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_striter.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_striteri.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_strjoin.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_strlcat.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_strlen.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_strmap.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_strmapi.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_strncat.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_strncmp.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_strncpy.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_strnequ.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_strnew.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_strnstr.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_strpcat.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_strrchr.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_strsplit.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_strstr.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_strsub.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_strtrim.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_tolower.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/ft_toupper.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/get_next_line.c">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/get_next_line.h">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/src/asm/libft/libft.h">
+			<Option target="corewar_42"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/projects/corewar/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
